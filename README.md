@@ -1,7 +1,10 @@
 # Udacity Cloud DevOps Engineer Nanodegree Program Project 1
 ## The Deploying of AWS Static-Website Done by John Ilozor
 
-### Project Assessement Details and Result
+### Project Assessement Details and Result is in the word doc 
+
+
+
 #### Activities Done in the Project are:
 
 - S3 public bucket was created  and upload the website files to your bucket.
