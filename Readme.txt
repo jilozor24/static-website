@@ -1,1 +1,1 @@
-This file contains the details of the website
+Deployment of Static Website Project Done By John Ilozor.
